@@ -1,6 +1,6 @@
 ---
 title: "Project 1: NOZAMA+"
-excerpt: " NOZAMA+ provides an automated last-mile delivery experience for customers to manage, track, and follow up on parcel delivery from their online platform seamlessly from their devices.<br/><img src='/images/500x300.png'>"
+excerpt: " NOZAMA+ provides an automated last-mile delivery experience for customers to manage, track, and follow up on parcel delivery from their online platform seamlessly from their devices.<br/><iframe src="链接到您的PDF文件的URL" width="500" height="300" frameborder="0"></iframe>>"
 collection: portfolio
 ---
 
